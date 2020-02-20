@@ -1,2 +1,2 @@
 # PythonForEverybody
-Study notes of &lt;Python for Everybody>
+Study notes of Python for Everybody
